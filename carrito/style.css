@@ -1,0 +1,40 @@
+.color-pink {
+    color:fuchsia;
+}
+
+.color-1 {
+    color:darkviolet;
+}
+
+.color-2 {
+    color:cadetblue;
+}
+
+.color-3 {
+    color:fuchsia;
+}
+
+.none {
+    display: none;
+}
+
+#titulo2 {
+    font-size: 3rem;
+    color: aquamarine;
+}
+
+.section {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: black;
+}
+
+.products {
+    background: lavenderblush;
+}
+
+.cart {
+    background-color: lightblue;
+}
